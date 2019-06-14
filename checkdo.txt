@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2019 03:21:43 GMT
+Content-Length: 85
+Connection: keep-alive
+S: STATUS_NOT_EXISTED
+Set-Cookie: t=fcce000b13fdb52f2b53822489c01dd4; Domain=.taobao.com; Expires=Thu, 12-Sep-2019 03:21:43 GMT; Path=/
+Set-Cookie: cookie2=1ab88f33ba19ac549190fb5de2ac3f33;Domain=.taobao.com;Path=/;HttpOnly
+Set-Cookie: v=0; Domain=.taobao.com; Path=/
+Set-Cookie: _tb_token_=ea769e80b3d9d; Domain=.taobao.com; Path=/
+P3P: CP='CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR'
+Server: Tengine/Aserver
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+EagleEye-TraceId: 0bfb453315604825033048390e41d8
+
+{"code":"10004","message":"QRCode expired!code=1, msg=data not exist","success":true}
